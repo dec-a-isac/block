@@ -1,6 +1,6 @@
 # Custom host records are listed here.
-192.168.1.144:8080 jira.local
-192.168.1.208:8006 proxmox.local
-192.168.1.163 r620.local
-192.168.1.246 r420-1.local
+192.168.1.144:8080 jira.lan
+192.168.1.208:8006 proxmox.lan
+192.168.1.163 r620.lan
+192.168.1.246 r420-1.lan
 # End of custom host records.
